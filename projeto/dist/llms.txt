@@ -1,0 +1,9 @@
+# DexterLab
+
+Loja brasileira de produtos impressos em 3D. O checkout e o pagamento são realizados na Kiwify.
+
+## Páginas públicas
+- / — catálogo e apresentação da DexterLab.
+- /privacidade — Política de Privacidade e informações sobre cookies e LGPD.
+
+Produtos e preços publicados vêm do catálogo da loja. A área de pedidos exige login; o painel administrativo é privado e não deve ser indexado.
